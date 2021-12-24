@@ -18,7 +18,7 @@ create the node directories:
 <br/><span style="color:lightgreen">account 1 created:</span>  <span style="color:yellow">0x06d6FA1E86dC28DCbD49d22B0A3255b783A153B5</span>
 
 ![](./screenshots/sc001.JPG)
-<img src="./screenshots/sc001.JPG"/>
+
 
 <span style="color:red">*create new account for node2:*</span> 
 >**$ ./geth --datadir node2/ account new**
@@ -27,14 +27,14 @@ create the node directories:
 <span style="color:lightgreen">account 2 created:</span>  <span style="color:yellow">0x96947332AB7ef0d231bCA8877F2e004a2BEb32d2</span>
 
 
-![](./screenshots/sc002.jpg)
+![](./screenshots/sc002.JPG)
 <br><br>
 
 <hr/>
 
 ## Configure Genesis and the Network
 
-![](./screenshots/sc003.jpg)
+![](./screenshots/sc003.JPG)
 
 ![](./screenshots/sc004.jpg)
 ![](./screenshots/sc005.jpg)
