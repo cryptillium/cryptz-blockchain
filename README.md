@@ -36,9 +36,9 @@ create the node directories:
 
 ![](./screenshots/sc003.JPG)
 
-![](./screenshots/sc004.jpg)
-![](./screenshots/sc005.jpg)
-![](./screenshots/sc006.jpg)
+![](./screenshots/sc004.JPG)
+![](./screenshots/sc005.JPG)
+![](./screenshots/sc006.JPG)
 
 <hr/>
 
@@ -47,7 +47,7 @@ create the node directories:
 >./geth --datadir node1/ init cryptz.json <br/>
 > ./geth --datadir node2/ init cryptz.json
 
-![](./screenshots/sc007.jpg)
+![](./screenshots/sc007.JPG)
 
 
 <hr/>
@@ -61,4 +61,4 @@ Boot node helps node discovery for network
 <i>enode://56762102f38a79c15bfabf80df53b60dba16b7773f9a7c24c68e358e8fb9ce5bc8ef8e2a79ceb91b2939a867262954f5f495006def87c9140a6480a8b00779d0@127.0.0.1:0?discport=30310</i>
 
 
-![](./screenshots/sc008.jpg)
+![](./screenshots/sc008.JPG)
