@@ -6,6 +6,17 @@ Tools that will be used here are:
 - Puppeth - to generate a genesis block
 - GETH - a commandline tool to create keys, initialise nodes and connect nodes<br/><br/>
 
+
+# Installation Requirements
+
+Before proceeding with the steps shown below please ensure you have the following installed:
+- Geth Tools: please refer to one of the download link:<br/>
+  https://gethstore.blob.core.windows.net/builds/geth-alltools-windows-amd64-1.9.25-e7872729.zip
+
+  https://gethstore.blob.core.windows.net/builds/geth-alltools-windows-386-1.9.25-e7872729.zip
+
+Extract the zip to the directory you will be working with.
+
 # Setting Up the Private POA Network
 
 ## Create Accounts
