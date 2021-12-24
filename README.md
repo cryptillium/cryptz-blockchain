@@ -17,7 +17,7 @@ create the node directories:
 >**$ ./geth --datadir node1/ account new**
 <br/><span style="color:lightgreen">account 1 created:</span>  <span style="color:yellow">0x06d6FA1E86dC28DCbD49d22B0A3255b783A153B5</span>
 
-![](./screenshots/sc001.jpg)
+![](./screenshot/sc001.jpg)
 
 <span style="color:red">*create new account for node2:*</span> 
 >**$ ./geth --datadir node2/ account new**
