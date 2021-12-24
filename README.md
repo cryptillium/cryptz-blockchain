@@ -17,6 +17,9 @@ Before proceeding with the steps shown below please ensure you have the followin
 
 Extract the zip to the directory you will be working with.
 
+- be sure that you have web3 install:
+  enter the command > pip install web3<br/> this is used for extracting the private key from GETH in order to import it to Metamask
+
 # Setting Up the Private POA Network
 
 ## Create Accounts
