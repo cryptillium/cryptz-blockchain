@@ -62,3 +62,12 @@ Boot node helps node discovery for network
 
 
 ![](./screenshots/sc008.JPG)
+
+
+<hr/>
+
+## Start Node 1
+
+> ./geth --datadir node1/ --syncmode 'full' --port 30311 --rpc --rpcaddr 'localhost' --rpcport 8501 --rpcapi 'personal,db,eth,net,web3,txpool,miner' --allow-insecure-unlock --bootnodes 'enode://a7613f923301c886f1bbb3da61cb0fc7ab4a698cde765ff61fc56601748496d6b2609c6f48cde3e43b158b97e5c623e94ddf2bd44dfd09552b4629da16618ec2@127.0.0.1:30310' --networkid 1515 --gasprice '1' -unlock '0x06d6FA1E86dC28DCbD49d22B0A3255b783A153B5' --password node1/password.txt --mine
+
+![](./screenshots/sc009.JPG)
