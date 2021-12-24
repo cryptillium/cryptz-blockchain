@@ -26,8 +26,6 @@ create the node directories:
 <span style="color:lightgreen">account 2 created:</span>  <span style="color:yellow">0x96947332AB7ef0d231bCA8877F2e004a2BEb32d2</span>
 
 
-
-
 ![](./screenshots/sc002.jpg)
 <br><br>
 
