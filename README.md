@@ -71,3 +71,48 @@ Boot node helps node discovery for network
 > ./geth --datadir node1/ --syncmode 'full' --port 30311 --rpc --rpcaddr 'localhost' --rpcport 8501 --rpcapi 'personal,db,eth,net,web3,txpool,miner' --allow-insecure-unlock --bootnodes 'enode://a7613f923301c886f1bbb3da61cb0fc7ab4a698cde765ff61fc56601748496d6b2609c6f48cde3e43b158b97e5c623e94ddf2bd44dfd09552b4629da16618ec2@127.0.0.1:30310' --networkid 1515 --gasprice '1' -unlock '0x06d6FA1E86dC28DCbD49d22B0A3255b783A153B5' --password node1/password.txt --mine
 
 ![](./screenshots/sc009.JPG)
+
+
+<hr/>
+
+## Start Node 2
+
+> ./geth --datadir node2/ --syncmode 'full' --port 30312 --rpc --rpcaddr 'localhost' --rpcport 8502 --rpcapi 'personal,db,eth,net,web3,txpool,miner' --allow-insecure-unlock --bootnodes 'enode://a7613f923301c886f1bbb3da61cb0fc7ab4a698cde765ff61fc56601748496d6b2609c6f48cde3e43b158b97e5c623e94ddf2bd44dfd09552b4629da16618ec2@127.0.0.1:30310' --networkid 1515 --gasprice '0' -unlock '0x96947332AB7ef0d231bCA8877F2e004a2BEb32d2' --password node2/password.txt --mine
+
+![](./screenshots/sc010.JPG)
+
+
+<hr/>
+
+## Visualising the Boot Node
+
+![](./screenshots/sc011.JPG)
+
+
+<hr/>
+
+## Connecting the Private Network with MetaMask
+
+![](./screenshots/sc012.JPG)
+
+![](./screenshots/sc013.JPG)
+
+<hr/>
+
+## Directory Structure
+Below is how our directory structure should look:
+
+![](./screenshots/sc014.JPG)
+
+![](./screenshots/sc015.JPG)
+
+![](./screenshots/sc016.JPG)
+
+![](./screenshots/sc017.JPG)
+<hr/>
+
+## Sending Transactions
+
+![](./screenshots/sc018.JPG)
+
+![](./screenshots/sc019.JPG)
